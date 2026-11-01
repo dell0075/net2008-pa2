@@ -1,1 +1,1 @@
-
+python pa2.py DEVICES.xml POLICY.yaml
